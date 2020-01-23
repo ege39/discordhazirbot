@@ -1,8 +1,8 @@
 {
-    "prefix": "Prefix Belirleyin",
-    "sahip": "yapımcı ID girin",
+    "prefix": ".",
+    "sahip": "666678725340823636",
     "surum": "0.1",
-    "token": "bot Token girin",
+    "token": "NjY5OTk2MjAxMjU2NjgxNTAy.XioWIQ.WXkQQiws2AQyV26LSLIntIzTjZU",
     "GOOGLE_API_KEY":"Google API KEY girin",
     "noPerms": ":x: Yetkin Yok."
   }
